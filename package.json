@@ -1,0 +1,24 @@
+{
+  "name": "burger-app",
+  "version": "1.0.0",
+  "description": "Restaurant App that allows user's input the names of burgers they'd like to eat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosOCBJJ/Burger-App.git"
+  },
+  "author": "Carlos Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosOCBJJ/Burger-App/issues"
+  },
+  "homepage": "https://github.com/CarlosOCBJJ/Burger-App#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
